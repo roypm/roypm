@@ -1,12 +1,12 @@
-# Roy Piñol Molina - Desarrollador Web
+# Roy Piñol Molina - Web Developer
 
-¡Hola, soy Roy Piñol Molina, un apasionado desarrollador web con conocimientos en HTML, CSS, Python y SQL! Aunque aún no tengo experiencia laboral, estoy buscando activamente oportunidades para aplicar mis habilidades y seguir aprendiendo.
+Hello, I'm Roy Piñol Molina, a passionate web developer with knowledge in HTML, CSS, Python, and SQL! Although I don't have any work experience yet, I'm actively looking for opportunities to apply my skills and keep learning.
 
-## Sobre mí
+## About me
 
-Soy un desarrollador web autodidacta con un gran interés en la creación de sitios web modernos y funcionales. Me apasiona el proceso de convertir una idea en un producto digital y estoy constantemente buscando nuevas formas de mejorar mis habilidades y conocimientos.
+I'm a self-taught web developer with a great interest in creating modern and functional websites. I love the process of turning an idea into a digital product and I'm constantly looking for new ways to improve my skills and knowledge.
 
-## Habilidades
+## Skills
 
 - HTML
 - CSS
@@ -14,11 +14,11 @@ Soy un desarrollador web autodidacta con un gran interés en la creación de sit
 - SQL
 - Git y GitHub
 
-## Contacto
+## Contact
 
-Si estás interesado en mi perfil o tienes alguna pregunta, no dudes en contactarme en:
+If you're interested in my profile or have any questions, please don't hesitate to contact me at:
 
-- Correo electrónico: [roymoli15@gmail.com](mailto:roymoli15@gmail.com)
+- Email: [roymoli15@gmail.com](mailto:roymoli15@gmail.com)
 - LinkedIn: [Roy Piñol Molina](https://www.linkedin.com/in/roy-piñol-molina/)
 
-¡Gracias por visitar mi perfil de GitHub!
+Thanks for visiting my GitHub profile!
