@@ -1,4 +1,4 @@
-# Roy Piñol Molina - Desarrollador Web en ciernes
+# Roy Piñol Molina - Desarrollador Web
 
 ¡Hola, soy Roy Piñol Molina, un apasionado desarrollador web con conocimientos en HTML, CSS, Python y SQL! Aunque aún no tengo experiencia laboral, estoy buscando activamente oportunidades para aplicar mis habilidades y seguir aprendiendo.
 
@@ -13,13 +13,6 @@ Soy un desarrollador web autodidacta con un gran interés en la creación de sit
 - Python
 - SQL
 - Git y GitHub
-
-## Proyectos
-
-Aquí hay algunos de mis proyectos más recientes:
-
-- [Portafolio personal](https://portfolio.dev/) - Un sitio web personal que muestra mis habilidades y proyectos.
-- [Tutorial de Python](https://github.com/roypm/python-tutorial) - Un tutorial en línea para aprender Python desde cero.
 
 ## Contacto
 
