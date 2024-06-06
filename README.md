@@ -1,6 +1,6 @@
 # 👨‍💻 Roy Piñol Molina - Front-End Developer 🌐
 
-Hello, I'm Roy Piñol Molina, a passionate web developer with knowledge in HTML, CSS, Python, and SQL! Although I don't have any work experience yet, I'm actively looking for opportunities to apply my skills and keep learning.
+Hello, I'm Roy Piñol Molina, a passionate web developer with knowledge in HTML, CSS, JavaScript, SQL and Python! Although I don't have any work experience yet, I'm actively looking for opportunities to apply my skills and keep learning.
 
 ## 📖 About me
 
